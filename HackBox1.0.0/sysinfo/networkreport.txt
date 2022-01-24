@@ -1,0 +1,129 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:4001         thepiratebay:50392     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50397     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50399     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50400     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50401     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50403     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50405     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50411     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50412     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50415     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50417     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50418     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50419     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50422     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50423     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50424     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50425     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50426     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50427     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50434     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50437     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50439     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50442     TIME_WAIT
+  TCP    127.0.0.1:4001         thepiratebay:50445     FIN_WAIT_2
+  TCP    127.0.0.1:5354         thepiratebay:61828     ESTABLISHED
+  TCP    127.0.0.1:5354         thepiratebay:61829     ESTABLISHED
+  TCP    127.0.0.1:50445        thepiratebay:4001      CLOSE_WAIT
+  TCP    127.0.0.1:53012        thepiratebay:53013     ESTABLISHED
+  TCP    127.0.0.1:53013        thepiratebay:53012     ESTABLISHED
+  TCP    127.0.0.1:61828        thepiratebay:5354      ESTABLISHED
+  TCP    127.0.0.1:61829        thepiratebay:5354      ESTABLISHED
+  TCP    192.168.2.2:50318      20.189.173.10:https    ESTABLISHED
+  TCP    192.168.2.2:50354      server-13-227-39-45:https  ESTABLISHED
+  TCP    192.168.2.2:50355      ec2-52-2-8-58:https    CLOSE_WAIT
+  TCP    192.168.2.2:50364      ec2-3-213-145-38:https  CLOSE_WAIT
+  TCP    192.168.2.2:50374      40.126.7.35:https      TIME_WAIT
+  TCP    192.168.2.2:50376      92.42.151.220:https    TIME_WAIT
+  TCP    192.168.2.2:50377      92.42.151.220:https    TIME_WAIT
+  TCP    192.168.2.2:50384      13.107.136.9:https     ESTABLISHED
+  TCP    192.168.2.2:50386      server-13-227-39-64:https  ESTABLISHED
+  TCP    192.168.2.2:50388      162.159.135.232:https  ESTABLISHED
+  TCP    192.168.2.2:50394      13.93.179.3:https      TIME_WAIT
+  TCP    192.168.2.2:50406      40.126.7.35:https      TIME_WAIT
+  TCP    192.168.2.2:50407      i-by3p-cor001:https    TIME_WAIT
+  TCP    192.168.2.2:50409      20.38.96.100:https     TIME_WAIT
+  TCP    192.168.2.2:50410      52.182.143.211:https   ESTABLISHED
+  TCP    192.168.2.2:50420      vip0x008:http          ESTABLISHED
+  TCP    192.168.2.2:50421      20.69.137.228:https    ESTABLISHED
+  TCP    192.168.2.2:50429      53:https               ESTABLISHED
+  TCP    192.168.2.2:50430      54:https               ESTABLISHED
+  TCP    192.168.2.2:50432      229:https              ESTABLISHED
+  TCP    192.168.2.2:50433      152.195.19.97:https    ESTABLISHED
+  TCP    192.168.2.2:50436      13.107.136.9:https     ESTABLISHED
+  TCP    192.168.2.2:50441      20.42.73.142:https     ESTABLISHED
+  TCP    192.168.2.2:51314      104.17.255.46:https    ESTABLISHED
+  TCP    192.168.2.2:51342      172.65.200.133:3353    ESTABLISHED
+  TCP    192.168.2.2:51833      gm-in-f188:5228        ESTABLISHED
+  TCP    192.168.2.2:51865      ec2-35-172-255-17:https  ESTABLISHED
+  TCP    192.168.2.2:52875      192.168.0.6:8009       ESTABLISHED
+  TCP    192.168.2.2:52876      192.168.0.6:8009       ESTABLISHED
+  TCP    192.168.2.2:54800      162.254.197.54:27032   ESTABLISHED
+  TCP    192.168.2.2:55852      47:https               ESTABLISHED
+  TCP    192.168.2.2:55879      40.83.240.146:https    ESTABLISHED
+  TCP    192.168.2.2:56073      40.83.247.108:https    ESTABLISHED
+  TCP    192.168.2.2:56399      162.159.130.234:https  ESTABLISHED
+  TCP    192.168.2.2:56974      ec2-50-17-251-142:http  ESTABLISHED
+  TCP    192.168.2.2:57989      ec2-52-1-147-4:https   ESTABLISHED
+  TCP    192.168.2.2:58602      ec2-52-73-95-138:https  ESTABLISHED
+  TCP    192.168.2.2:59801      104.192.142.2:https    ESTABLISHED
+  TCP    192.168.2.2:60039      ec2-52-54-58-13:9000   ESTABLISHED
+  TCP    [::1]:5426             DESKTOP-L8HE6E3:49733  ESTABLISHED
+  TCP    [::1]:5426             DESKTOP-L8HE6E3:49737  ESTABLISHED
+  TCP    [::1]:5426             DESKTOP-L8HE6E3:49740  ESTABLISHED
+  TCP    [::1]:5426             DESKTOP-L8HE6E3:49743  ESTABLISHED
+  TCP    [::1]:49733            DESKTOP-L8HE6E3:5426   ESTABLISHED
+  TCP    [::1]:49737            DESKTOP-L8HE6E3:5426   ESTABLISHED
+  TCP    [::1]:49740            DESKTOP-L8HE6E3:5426   ESTABLISHED
+  TCP    [::1]:49743            DESKTOP-L8HE6E3:5426   ESTABLISHED
+
+Interface: 192.168.68.1 --- 0x5
+  Internet Address      Physical Address      Type
+  192.168.68.254        00-50-56-e1-ab-1c     dynamic   
+  192.168.68.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  230.0.0.1             01-00-5e-00-00-01     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 192.168.133.1 --- 0x8
+  Internet Address      Physical Address      Type
+  192.168.133.254       00-50-56-e0-15-44     dynamic   
+  192.168.133.255       ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  230.0.0.1             01-00-5e-00-00-01     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 192.168.56.1 --- 0x12
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  230.0.0.1             01-00-5e-00-00-01     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 192.168.2.2 --- 0x14
+  Internet Address      Physical Address      Type
+  192.168.2.1           7c-8b-ca-d3-6d-34     dynamic   
+  192.168.2.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  230.0.0.1             01-00-5e-00-00-01     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
