@@ -1,0 +1,8 @@
+2.0 RELEASE NOTES [1/23/2021]
+
+
+Now an EXE! 
+(Note: The .py file is still available under the (hidden) data folder)
+
+Compiled into exe by auto-py-to-exe
+(https://pypi.org/project/auto-py-to-exe/)
